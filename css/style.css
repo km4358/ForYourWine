@@ -20,7 +20,7 @@ h1{
 }
 
 #credit{
-    position: absolute;
+    position: fixed;
     bottom: 0px;
     right: 5px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
